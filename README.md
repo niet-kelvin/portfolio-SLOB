@@ -15,7 +15,7 @@
   [Mijn LinkedIn profiel](https://www.linkedin.com/in/kelvinderogee)
   
 - **Disc test:**  
-  ![Disc-test-results](https://github.com/niet-kelvin/portfolio-SLOB/assets/157017029/e0a4deb6-88b0-40aa-9175-21cf08fd6946 =200x200)
+  ![Disc-test-results](https://github.com/niet-kelvin/portfolio-SLOB/assets/157017029/e0a4deb6-88b0-40aa-9175-21cf08fd6946 =150x150)
 
 - **360 graden feedback:**  
   [360 Feedback.docx](https://github.com/user-attachments/files/16116190/360.Feedback.docx)
@@ -42,7 +42,7 @@
   [SLOB-P4-Vacature.docx](https://github.com/user-attachments/files/16116292/SLOB-P4-Vacature.docx)
 
 - **Disc test:**  
-  ![Disc-test-results](https://github.com/niet-kelvin/portfolio-SLOB/assets/157017029/e0a4deb6-88b0-40aa-9175-21cf08fd6946 =200x200)
+  ![Disc-test-results](https://github.com/niet-kelvin/portfolio-SLOB/assets/157017029/e0a4deb6-88b0-40aa-9175-21cf08fd6946 =150x150)
 
 - **Vragenlijst over hard en softskills voor een match met een stageplek:**  
   Wel gemaakt, maar ik krijg het forms document niet uit Teams / kan niet downloaden dus even tijdelijk:  
