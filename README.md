@@ -15,7 +15,7 @@
   [Mijn LinkedIn profiel](https://www.linkedin.com/in/kelvinderogee)
   
 - **Disc test:**  
-  ![Disc-test-results](https://github.com/niet-kelvin/portfolio-SLOB/assets/157017029/e0a4deb6-88b0-40aa-9175-21cf08fd6946 =150x150)
+  <img src="https://github.com/niet-kelvin/portfolio-SLOB/assets/157017029/e0a4deb6-88b0-40aa-9175-21cf08fd6946" alt="Disc-test-results" width="300">
 
 - **360 graden feedback:**  
   [360 Feedback.docx](https://github.com/user-attachments/files/16116190/360.Feedback.docx)
