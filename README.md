@@ -54,7 +54,7 @@
   [Mijn LinkedIn profiel](https://www.linkedin.com/in/kelvinderogee)
   
 - **360 graden feedback:**  
-  <img src="https://github.com/niet-kelvin/portfolio-SLOB/assets/157017029/e0a4deb6-88b0-40aa-9175-21cf08fd6946" alt="Disc-test-results" width="300">
+  [360 Feedback.docx](https://github.com/user-attachments/files/16116190/360.Feedback.docx)
 
 ## Je weet wat een goede beroepshouding is, en wat het beroep inhoudt
 
