@@ -45,6 +45,7 @@
   <img src="https://github.com/niet-kelvin/portfolio-SLOB/assets/157017029/e0a4deb6-88b0-40aa-9175-21cf08fd6946" alt="Disc-test-results" width="300">
   
 - **Vragenlijst over hard en softskills voor een match met een stageplek:**
+
   Wel gemaakt, maar ik krijg het forms document niet uit Teams / kan niet downloaden dus even tijdelijk:
   <img src="https://github.com/niet-kelvin/portfolio-SLOB/assets/157017029/b8989019-92b9-4c81-90db-f5fe8233fa4b" alt="placeholder" width="300">
 
